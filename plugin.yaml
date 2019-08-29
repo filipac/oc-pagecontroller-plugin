@@ -1,0 +1,6 @@
+plugin:
+    name: 'filipac.pagecontroller::lang.plugin.name'
+    description: 'filipac.pagecontroller::lang.plugin.description'
+    author: Filipac
+    icon: oc-icon-cog
+    homepage: ''
